@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "catalog": "https://zcxxcz.github.io/xiaohongshu-articles/catalog.json",
+  "records": [
+    {
+      "id": "xiaohongshu",
+      "title": "小红书文章",
+      "type": "文章",
+      "summary": "信奥观察与图文长文，记录关于教育和学习的思考。",
+      "tags": [
+        "信奥",
+        "文章与资料"
+      ],
+      "url": "https://zcxxcz.github.io/xiaohongshu-articles/",
+      "updated": "2026-10-07",
+      "featured": true,
+      "textPaths": []
+    },
+    {
+      "id": "jigou-xuanba",
+      "title": "信奥机构的底层逻辑，没人告诉你",
+      "type": "文章",
+      "summary": "从培养与筛选、基础漏洞、时间资产到竞赛阶段门槛。",
+      "tags": [
+        "信奥",
+        "文章与资料"
+      ],
+      "url": "https://zcxxcz.github.io/xiaohongshu-articles/jigou-xuanba/",
+      "updated": "2026-10-07",
+      "featured": false,
+      "textPaths": [
+        "jigou-xuanba/index.html"
+      ]
+    }
+  ]
+}
